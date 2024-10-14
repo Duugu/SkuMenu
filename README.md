@@ -1,2 +1,2 @@
-# SkuMenu
- 
+This is a standalone add-on that provides an accessible audio menu for use by blind and visually impaired players.
+It has no content by itself, it just creates the basic menu and some options. Other addons can register with the audio menu to make their content, settings, etc. accessible to blind players.
