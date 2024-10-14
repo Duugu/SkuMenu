@@ -1,0 +1,1 @@
+SkuMenu = LibStub("AceAddon-3.0"):NewAddon("SkuMenu", "AceConsole-3.0", "AceEvent-3.0")

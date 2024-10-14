@@ -1,0 +1,29 @@
+## Interface: 40400
+## Title: Sku Menu (0.01)
+## SavedVariables: SkuMenuDB
+## Version: 0.01
+## X-Curse-Project-ID: 
+
+embeds.xml
+
+init.lua
+
+SkuAudioData\assets\SkuAudioFileIndex.lua
+SkuAudioData\assets\SkuAudioDataLenIndex.lua
+SkuAudioData\Core.lua
+
+locales\enUS.lua
+locales\deDE.lua
+
+Core.lua
+
+Libs\SkuTTS-1.0\SkuTTS-1.0.lua
+Libs\SkuVoice-1.0\SkuVoice-1.0.lua
+
+SkuDispatcher\Core.lua
+
+SkuMenuOptions\utilities.lua
+SkuMenuOptions\Core.lua
+SkuMenuOptions\templates.lua
+SkuMenuOptions\Options.lua
+SkuMenuOptions\SkuKeyBinds.lua
